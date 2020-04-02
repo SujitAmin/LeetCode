@@ -9,6 +9,7 @@ public class MyClass {
             out.println(i);
         }
         heroOne();
+        //This is test
     }
     private static void heroOne() {
         out.println("Hero this is Ranveer Singh");
